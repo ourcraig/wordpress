@@ -6,12 +6,12 @@ This is a basic WordPress installation using v4.7, with sub-module [FoundationPr
 
 ### 1. Clone the repository
 ```bash
-$ cd my-working-directory
 $ git clone https://github.com/ourcraig/wordpress
 ```
 
 ### 2. Initialise and update the sub-module
 ```bash
+$ cd wordpress
 $ git submodule init
 $ git submodule update
 ```

@@ -20,7 +20,7 @@ $ git submodule update
 ```bash
 $ cd wp-content/themes/FoundationPress
 $ git checkout master
-$ git git pull
+$ git pull
 ```
 
 ### 4. Install FoundationPress
